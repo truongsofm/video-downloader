@@ -16,7 +16,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 git clone https://github.com/truongsofm/video-downloader
 
 # Go into the repository
-cd videodownloader 
+cd video-downloader 
 
 # Install dependencies
 npm install
